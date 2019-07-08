@@ -13,6 +13,7 @@ Analisi delle Componenti Principali sul dataset Iris. All'interno un PDF con Scr
 4) Regressione Lineare:
 Si Vuole mostrare un semplice esempio grafico di regressione lineare con il metodo del gradiente. All'interno un PDF con Screen dell'Output
 
-
+5) VSM:
+Si è implementato un basico esempio di VSM che mostra la matrice di frequenza dei termini, la TF, la Td-IDF e la coseno similarità tra il primo documento e gli altri.
 
 
