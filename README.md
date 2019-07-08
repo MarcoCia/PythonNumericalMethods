@@ -7,5 +7,12 @@ Si è applicato il metodo della SVD per la compressione di immagini RGB (con uti
 2) EigenFace:
 EigenFace con Demo che mostra le variazioni delle immagini al modificare dei pesi.
 
-3) PCA con Iris Dataset. PDF con Screen dell'Output
+3) PCA con Iris Dataset
+Analisi delle Componenti Principali sul dataset Iris. All'interno un PDF con Screen dell'Output
+
+4) Regressione Lineare:
+Si Vuole mostrare un semplice esempio grafico di regressione lineare con il metodo del gradiente. All'interno un PDF con Screen dell'Output
+
+
+
 
