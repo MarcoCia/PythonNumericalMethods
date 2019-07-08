@@ -113,12 +113,12 @@ if __name__ == '__main__':
 		eigenFace = eigenVector.reshape(sz)
 		eiFa.append(eigenFace)
 
-    """
-    Il codice che segue, serve per la creazione
-    della finestra per la demo
+    
+    	#Il codice che segue, serve per la creazione
+    	#della finestra per la demo
     
     
-    """
+   
 	# Create window for displaying Mean Face
 	cv2.namedWindow("Result", cv2.WINDOW_AUTOSIZE)
 	
